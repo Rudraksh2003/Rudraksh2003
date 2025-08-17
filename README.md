@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Rudraksh Laddha!</h1>
-<h3 align="center">DevOps Engineer || Technical Writer 🚀</h3>
+<h3 align="center">DevOps Engineer || Full Stack Developer || Technical Writer 🚀</h3>
 
  <p> <img src="https://octodex.github.com/images/Fintechtocat.png" align="right" alt="Coding" width="400"/> </p>
  
-- 🔭 I’m currently working on **Automation & Scalability**
+- 🔭 I’m currently working on **Automation & Scalability and Building Virendana**
 
 - 🌱 I’m currently learning **Microservices Architecture**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects && Consulting from Development to Deployment**
 
 - 🤝 I’m looking for help with **Learning New Technologies and Best Practices**
 
-- 💬 Ask me about **Java, Kubernetes, AWS, Shell, Docker, Terraform, Git**
+- 💬 Ask me about **Java, Kubernetes, AWS, Shell, Docker, Terraform, Git, React**
 
 - 📫 How to reach me **rudrakshladdha@gmail.com**
 
